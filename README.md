@@ -2,7 +2,7 @@
 My portfolio of personal projects, open source contributions and other experience
 
 # About me
-I am a Computer Science student at the University of Calgary and expect to graduate by April 2025.
+I am an undergraduate Computer Science student at the University of Calgary and expect to graduate by April 2025.
 
 # Personal Projects
 3D renderer
